@@ -45,11 +45,11 @@ const Routes=()=>(
       <Links/>
       <Cover/>
       <div id="main">
-      <Route exact path="/" render={()=><Home/>}></Route>
-      <Route path="/recipes" render={()=> <RecipeBox type=''/>}></Route>
-      <Route path="/starter" render={()=> <RecipeBox type='starter'/>}></Route>
-      <Route path="/main" render={()=> <RecipeBox type='main'/>}></Route>
-      <Route path="/desert" render={()=> <RecipeBox type='desert'/>}></Route>
+        <Route exact path="/" render={()=><Home/>}></Route>
+        <Route path="/recipes" render={()=> <RecipeBox type=''/>}></Route>
+        <Route path="/starter" render={()=> <RecipeBox type='starter'/>}></Route>
+        <Route path="/main" render={()=> <RecipeBox type='main'/>}></Route>
+        <Route path="/desert" render={()=> <RecipeBox type='desert'/>}></Route>
       </div>
     </div>
   </Router>

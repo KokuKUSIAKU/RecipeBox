@@ -10,9 +10,7 @@ const Footer =()=>(
       <p> Dev Tools used:NPM, Webpack , Git </p>
     </div>
     <hr className="style-line" />
-    <div><i className="fa fa-copyright" aria-hidden="true"> Koku KUSIAKU</i>
-</div>
-
+    <div><i className="fa fa-copyright" aria-hidden="true"> Koku KUSIAKU</i></div>
   </div>
 );
 
