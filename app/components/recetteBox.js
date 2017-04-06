@@ -186,7 +186,7 @@ class RecipeBox extends React.Component{
 
   render(){
     return (
-      <div className ='recipeBox'>
+      <div id="recipeBox" className ='recipeBox'>
         <RecetteList list={this.state.list} />
         <div className="recette-list-selection">
           <div id ="direction-left" onClick={this.indexChange}>
