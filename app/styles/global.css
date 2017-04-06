@@ -1,0 +1,9 @@
+@import url('links.css');
+@import url('slider.css');
+@import url('name.css');
+@import url('home.css');
+@import url('recetteBox.css');
+@import url('contacts.css');
+body{
+  margin:0;
+}

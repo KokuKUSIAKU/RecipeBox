@@ -1,0 +1,40 @@
+.community{
+  height:32vw;
+  font-weight:700;
+  font-family: Signika, sans-serif;
+}
+
+.community-wrapper{
+  height:100%;
+}
+
+.community-button{
+  font-family: Signika, sans-serif;
+  margin:0 auto;
+  width:50%;
+  text-align:center;
+}
+.community-button button{
+  width:100%;
+  height:5vw;
+  font-size:2vw;
+  color:rgb(255,255,255);
+  border:none;
+  border-radius:5px;
+  background:green;
+}
+
+.community-message{
+  width:60%;
+  height:100%;
+  margin:0 auto;
+  color:rgb(250, 150, 100);
+ text-align: center;
+}
+
+.community-message p{
+  margin:0;
+  font-size:2.5vw;
+  line-height:3.5vw;
+  padding:3vw 3vw;
+}

@@ -1,0 +1,59 @@
+
+.footer-container{
+  font-family: Signika, sans-serif;
+}
+.footer{
+  margin:0;
+  padding-top:25px;/* this solves a layout issue (gap) with mainfooter container don't understand why yet!!*/
+  background: rgb(51, 51, 51);
+  color:rgb(204,204,204);
+  text-align: center;
+  height: 200px;
+
+}
+.style-line{
+    padding: 0;
+    border: none;
+    max-width: 65%;
+    border-top: 5px double rgb(204,204,204);
+    text-align: center;
+}
+
+#links{
+  font-size:56px;
+  text-align: center;
+}
+#links i{
+  margin:0 5px;
+}
+.mainfooter{
+  margin:0;
+  padding:50px 0 ;
+  color:rgb(255,255,255);
+  background:rgb(217, 83, 79);
+
+}
+.mainfooter .name{
+  font-size: 16px;
+  margin-bottom: 15px;
+  background: inherit;
+}
+.contactsLinks{
+  display:inline-block;
+  vertical-align: top;
+  width:40%;
+}
+
+.recetteNameList{
+  display:inline-block;
+  vertical-align: top;
+  width:60%;
+}
+.recetteNameList h2{
+  margin:0 30px;
+}
+.recetteNameList ul{
+  font-size:20px;
+  font-weight: normal;
+  list-style-type:none;
+}

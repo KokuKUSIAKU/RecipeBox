@@ -1,0 +1,97 @@
+.ingredients{
+  position:absolute;
+  background:rgba(226, 106, 107,0.8);
+  width:78vw;
+  margin-left:1vw;
+  padding-left:1vw;
+  color:rgb(255,255,255);
+  overflow:auto;
+}
+
+.ingredients button{
+  font-size:1.5vw;
+  border:none;
+  position:absolute;
+  right:3vw;
+  top:1vw;
+  background:rgb(255,0,0);
+}
+
+.ingredients h2{
+  display:inline-block;
+  width:80%;
+}
+
+.ingredients ul {
+  font-size:20px;
+}
+
+.recette{
+  font-size:0;
+  vertical-align:top;
+  width:18vw;
+  height:25vw;
+  display:inline-block;
+  margin:1vw;
+}
+
+.recette img{
+  width:100%;
+  height:auto;
+  margin-bottom:0;
+  border:1px solid black;
+  border-bottom:2px solid red;
+}
+.recette-list-selection{
+  margin:0 auto;
+  width:26vw;
+  font-size:0.5vw;
+  text-align:center;
+}
+
+#direction-left, #direction-right{
+  display:inline-block;
+  vertical-align:top;
+  width:12vw;
+  text-align:center;
+  font-size:2vw;
+  background:rgb(255,255,255);
+}
+
+#direction-left{
+  margin-right:1vw;
+}
+.recette-list-selection p{
+  display:inline
+}
+.recette p{
+  display:table-cell;
+  height:6.5vw;
+  width:18vw;
+  background:rgb(255,255,255);
+  margin:0;
+  font-size:1.5vw;
+  text-align:center;
+  vertical-align:middle;
+  color:rgb(204, 100, 100);
+}
+
+.recette-title{
+  width:100%;
+  background:rgb(255,255,255);
+  border:1px solid black;
+  border-top:2px solid red;
+}
+
+.recetteList{
+  margin:0 auto;
+  padding-top:35px;
+  width:80vw;
+  height:58vw;
+}
+
+
+.recipeBox{
+  position:relative;
+  padding-bottom:3vw;
+}

@@ -1,0 +1,47 @@
+
+.recetteSlider{
+  position:relative;
+  height:35vw;
+  overflow-y: hidden;
+}
+.recetteSlider img{
+  vertical-align:middle;
+  max-width:none;
+  width:100%;
+  height:auto;
+  z-index: -1;
+}
+.text{
+  margin:0 auto;
+}
+.text-wrapper{
+  position:absolute;
+  top:0;
+  font-size:3vw;
+  text-align:center;
+  color:rgb(255,255,255);
+  width:100%;
+  background:rgba(0,0,0,0.6);
+}
+.searchForm-wrapper{
+  position:absolute;
+  top:25vw;
+  width:100%;
+  text-align:center;
+}
+#searchForm-text, #searchForm-submit{
+  font-size:3vw;
+  height:5vw;
+  padding:0;
+  border-radius:5px;
+  border:none;
+}
+#searchForm-text{
+  width:40vw;
+  margin-right:5px;
+}
+#searchForm-submit{
+  width:20vw;
+  color:rgb(255,255,255);
+  background:rgb(217, 83, 79);
+}
