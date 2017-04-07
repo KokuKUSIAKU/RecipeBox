@@ -3,7 +3,7 @@ var React = require('react');
 const Footer =()=>(
   <div className ='footer'>
     <div>
-      <p>Built as part of FreeCodeCamp Curriculum Porjects</p>
+      <p>Built as part of FreeCodeCamp Curriculum Projects</p>
     </div>
     <div>
       <p> React React-Router & Jquery </p>
