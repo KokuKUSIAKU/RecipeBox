@@ -3,6 +3,7 @@
   position:relative;
   height:35vw;
   overflow-y: hidden;
+  background: rgb(74, 58, 86);
 }
 .recetteSlider img{
   vertical-align:middle;
