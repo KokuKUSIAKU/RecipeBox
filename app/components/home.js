@@ -19,7 +19,4 @@ function Home(){
   );
 };
 
-/*const Home = ()=>(
-  <div> My test </div>
-); */
 export default Home;
