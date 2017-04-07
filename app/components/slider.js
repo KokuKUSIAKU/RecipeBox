@@ -4,12 +4,12 @@ var ReactDOM = require('react-dom');
 import SearchForm from './searchForm';
 
 var recettesImages = [
-  "boeuf-saute.jpg",
-  "poelee-de-veau-aux-carottes-et-oignons.jpg",
-  "poelee-gambas.jpg",
-  "salade-de-fruits-de-saison.jpg"
+  "boeuf_saute.jpg",
+  "poelee_de_veau_aux_carottes_et_oignons.jpg",
+  "poelee_gambas.jpg",
+  "salade_de_fruits_de_saison.jpg"
 ];
-var imagesPath = './app/img/recipes/';
+var imagesPath = "./app/img/recipes/";
 
 class RecetteSlider extends React.Component{
   constructor(props){
