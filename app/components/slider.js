@@ -10,7 +10,7 @@ var recettesImages = [
   "salade_de_fruits_de_saison.jpg"
 ];
 //var imagesPath = "app/img/recipes/";
-var imagesPath ="/KokuKUSIAKU/recipebox/blob/master/app/img/recipes/"
+var imagesPath ="https://github.com/KokuKUSIAKU/recipebox/blob/master/app/img/recipes/"
 
 class RecetteSlider extends React.Component{
   constructor(props){
