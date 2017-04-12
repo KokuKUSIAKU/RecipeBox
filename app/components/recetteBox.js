@@ -191,10 +191,10 @@ class RecipeBox extends React.Component{
         <div className="recette-list-selection">
           <div id ="direction-left" onClick={this.indexChange}>
             <i className="fa fa-angle-double-left" aria-hidden="true"></i>
-            <p>Précédent</p>
+            <p>Previous</p>
           </div>
           <div id ="direction-right" onClick={this.indexChange}>
-            <p>Suivant</p>
+            <p>Next</p>
             <i className="fa fa-angle-double-right" aria-hidden="true"></i>
           </div>
         </div>
