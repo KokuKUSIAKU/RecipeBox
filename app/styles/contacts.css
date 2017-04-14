@@ -3,6 +3,11 @@
   vertical-align: top;
   width:500px;
 }
+.built_tools img{
+  height:40px;
+  margin-right: 10px;
+  width: auto;
+}
 .language{
   width:300px;
   display: inline-block;
