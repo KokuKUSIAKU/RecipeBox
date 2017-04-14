@@ -15,7 +15,9 @@ const Footer =()=>(
     </div>
     <div className="built_tools">
       <h2> BUILD TOOLS</h2>
-      <p>NPM, Webpack , Git </p>
+      <img src='./app/img/git-logo-white.png' alt ="GIT"/>
+      <img src='./app/img/npm-logo.png' alt ="GIT"/>
+      <img src='./app/img/webpack.png' alt ="GIT"/>  
     </div>
     </div>
     <hr className="style-line" />
@@ -23,7 +25,9 @@ const Footer =()=>(
   </div>
 );
 
-/*const Footer =()=>(
+/*
+<p>NPM, Webpack , Git </p>
+const Footer =()=>(
   <div className="footer">
   <div>
     <p>{"Built as part of FreeCodeCamp Curriculum Porjects"}</p>
