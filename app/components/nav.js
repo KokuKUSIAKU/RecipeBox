@@ -1,3 +1,4 @@
+// refactor Links component and isolate presentational component
 var React = require('react');
 var ReactDOM = require('react-dom');
 

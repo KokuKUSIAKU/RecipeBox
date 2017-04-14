@@ -46,8 +46,7 @@ class RecetteSlider extends React.Component{
         <img src={this.state.url} alt='image unavailable'/>
         <div className="text-wrapper">
           <div className="text">
-            <p>Wellcome on elsewhere cooking amateurs community<br></br>
-               Discover delights around the world and share yours</p>
+            <p>Where cooking amateurs & lovers meet! </p>
           </div>
         </div>
         <SearchForm/>

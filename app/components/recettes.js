@@ -1,3 +1,4 @@
+// to update to a self-contained module
 var recettes = [
   {
     name:"Souris d'agneau confite",

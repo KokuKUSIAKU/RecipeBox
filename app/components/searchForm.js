@@ -1,7 +1,7 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 
-
+  /* there is an align issure without value in the second input*/
 const SearchForm = () =>(
   <div className="searchForm-wrapper">
     <div className="searchForm">

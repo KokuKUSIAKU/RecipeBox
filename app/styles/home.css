@@ -1,7 +1,7 @@
 .community{
   height:32vw;
   font-weight:700;
-  font-family: Signika, sans-serif;
+  font-family: "Libre Franklin", sans-serif;
 }
 
 .community-wrapper{
@@ -9,7 +9,7 @@
 }
 
 .community-button{
-  font-family: Signika, sans-serif;
+  font-family: "Libre Franklin", sans-serif;
   margin:0 auto;
   width:50%;
   text-align:center;
@@ -28,7 +28,7 @@
   width:60%;
   height:100%;
   margin:0 auto;
-  color:rgb(250, 150, 100);
+  color:rgb(76, 3, 6) /*rgb(250, 150, 100)*/;
  text-align: center;
 }
 

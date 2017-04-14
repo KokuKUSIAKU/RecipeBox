@@ -2,8 +2,8 @@ var React = require('react');
 
 
 const Name =()=>(
-  <div className="name">
-      <h1> Hi KITCHO </h1>
+  <div className="brand-name">
+      <h1> HITCHO </h1>
   </div>
 );
 

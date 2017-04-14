@@ -4,7 +4,9 @@ import Name from './name';
 
 const ContactsLinks =()=>(
   <div className="contactsLinks">
-    <Name />
+    <div>
+      <Name />
+    </div>
     <div id="links">
       <i className="fa fa-facebook-official" ></i>
       <i className="fa fa-twitter-square" aria-hidden="true"></i>
