@@ -15,9 +15,9 @@ const Footer =()=>(
     </div>
     <div className="built_tools">
       <h2> BUILD TOOLS</h2>
-      <img src='./app/img/git-logo-white.png' alt ="GIT"/>
-      <img src='./app/img/npm-logo.png' alt ="GIT"/>
-      <img src='./app/img/webpack.png' alt ="GIT"/>  
+      <img src='https://github.com/KokuKUSIAKU/recipebox/blob/master/app/img/git-logo-white.png?raw=true' alt ="GIT"/>
+      <img src='https://github.com/KokuKUSIAKU/recipebox/blob/master/app/img/npm-logo.png?raw=true' alt ="GIT"/>
+      <img src='https://github.com/KokuKUSIAKU/recipebox/blob/master/app/img/webpack.png?raw=true' alt ="GIT"/>  
     </div>
     </div>
     <hr className="style-line" />
