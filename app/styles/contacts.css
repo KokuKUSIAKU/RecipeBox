@@ -1,6 +1,28 @@
+.built_tools{
+  display:inline-block;
+  vertical-align: top;
+  width:500px;
+}
+.language{
+  width:300px;
+  display: inline-block;
+  vertical-align: top;
+  font-family: 'Libre Franklin', sans-serif;
+}
+.language .skills_item{
+  display: inline-block;
+  width:50px;
+  height: 50px;
+}
+.skills_item i{
+  display:block;
+  font-size: 50px;
+}
+.tools{
 
+}
 .footer-container{
-  font-family: Signika, sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
 }
 .footer{
   margin:0;
@@ -8,8 +30,6 @@
   background: rgb(51, 51, 51);
   color:rgb(204,204,204);
   text-align: center;
-  height: 200px;
-
 }
 .style-line{
     padding: 0;
@@ -31,17 +51,21 @@
   padding:50px 0 ;
   color:rgb(255,255,255);
   background:rgb(217, 83, 79);
-
+  font-family: 'Libre Franklin', sans-serif;
 }
-.mainfooter .name{
+
+/*.mainfooter .name{
   font-size: 16px;
   margin-bottom: 15px;
   background: inherit;
-}
+}*/
 .contactsLinks{
   display:inline-block;
   vertical-align: top;
   width:40%;
+}
+.contactsLinks .brand-name{
+  margin:0 auto;
 }
 
 .recetteNameList{

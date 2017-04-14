@@ -1,0 +1,42 @@
+.brand-name{
+  text-align:center;
+  font-family:'Monoton', cursive;
+  font-size: 16px;
+
+}
+.header .brand-name{
+  display: inline-block;
+  width:200px;
+}
+.brand-name h1{
+  margin:0;
+}
+
+.header{
+  background: rgb(7, 108, 126);
+  color:rgb(255,255,255);
+  position:relative;
+  font-family: "Libre Franklin", sans-serif;
+}
+.header button{
+  font-size: 18px;
+  background-color: rgb(7, 147, 52);
+  color:rgb(255,255,255);
+  border:0;
+  width:100px;
+  padding:5px;
+  margin:0 15px
+}
+
+.section-links{
+  /* update: remove padding to make vertical align auto whithout usign table et table-cell*/
+  display:inline-block;
+  position: absolute;
+  right:5px;
+  padding-top:10px;
+  height:100%;
+  width:300px;
+}
+.sign-up, .log-in{
+  display: inline;
+}

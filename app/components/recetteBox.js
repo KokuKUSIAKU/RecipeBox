@@ -1,3 +1,4 @@
+// to update, seperate presentational components
 var React = require('react');
 var $ = require('jquery');
 

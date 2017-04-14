@@ -1,7 +1,7 @@
 .ingredients{
   position:absolute;
-  background:rgba(226, 106, 107,0.8);
-  width:78vw;
+  background:rgba(0, 0, 0,0.8);
+  width:77.5vw;
   margin-left:1vw;
   padding-left:1vw;
   color:rgb(255,255,255);
@@ -9,7 +9,8 @@
 }
 
 .ingredients button{
-  font-size:1.5vw;
+  font-size:2vw;
+  color:rgb(255,255,255);
   border:none;
   position:absolute;
   right:3vw;
@@ -54,12 +55,19 @@
   vertical-align:top;
   width:12vw;
   text-align:center;
-  font-size:2vw;
-  background:rgb(255,255,255);
+  font-size:20px;
+  padding-top:15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  color:rgb(255,255,255);
 }
 
 #direction-left{
   margin-right:1vw;
+  background: rgb(76, 72, 3);
+}
+#direction-right{
+ background: rgb(3, 7, 76);
 }
 .recette-list-selection p{
   display:inline

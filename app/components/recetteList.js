@@ -1,4 +1,6 @@
+// don't need a class, to update
 var React = require('react');
+
 
 // import of global variables
 import recettes from './recettes';
